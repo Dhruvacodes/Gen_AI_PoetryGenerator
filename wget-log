@@ -1,0 +1,31 @@
+--2025-02-13 00:16:22--  https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf
+Resolving huggingface.co (huggingface.co)... 108.159.15.97, 108.159.15.84, 108.159.15.3, ...
+Connecting to huggingface.co (huggingface.co)|108.159.15.97|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn-lfs-us-1.hf.co/repos/72/62/726219e98582d16c24a66629a4dec1b0761b91c918e15dea2625b4293c134a92/3e0039fd0273fcbebb49228943b17831aadd55cbcbf56f0af00499be2040ccf9?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27mistral-7b-instruct-v0.2.Q4_K_M.gguf%3B+filename%3D%22mistral-7b-instruct-v0.2.Q4_K_M.gguf%22%3B&Expires=1739389583&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczOTM4OTU4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzcyLzYyLzcyNjIxOWU5ODU4MmQxNmMyNGE2NjYyOWE0ZGVjMWIwNzYxYjkxYzkxOGUxNWRlYTI2MjViNDI5M2MxMzRhOTIvM2UwMDM5ZmQwMjczZmNiZWJiNDkyMjg5NDNiMTc4MzFhYWRkNTVjYmNiZjU2ZjBhZjAwNDk5YmUyMDQwY2NmOT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=g%7ESx5BI-BUQOdjODSIgtd4WzeBCqfucovmeFHF5hB92nLozp6tURSaWFpdiRoG-v1SFIaZ3l4o0lr%7EzdUZsiygkN%7E4fcVjeonrxI7mmNggu4T88Ynmh7twbs0g3rEwnbrbeDEPnWDOfr-oaIHIE0nrAHOso-4joqbkjT0c3pH0Iy3J2nbupUk2n-ACRNsVuKhGXHE2Rjd8t5P8O2F9l8b1SiI6bATc1yVzaC44YICs6SmS-Rg7Yy%7EztkU0iBiTKRRynrbQH-rN8pTG7CpJz0i4z62hucJ37Vu%7EcjFRA%7EJiKTE4bvaSIOtf2zzSiKq1TQxCapAkbKAas5oj0HKoOq1g__&Key-Pair-Id=K24J24Z295AEI9 [following]
+--2025-02-13 00:16:23--  https://cdn-lfs-us-1.hf.co/repos/72/62/726219e98582d16c24a66629a4dec1b0761b91c918e15dea2625b4293c134a92/3e0039fd0273fcbebb49228943b17831aadd55cbcbf56f0af00499be2040ccf9?response-content-disposition=inline%3B+filename*%3DUTF-8''mistral-7b-instruct-v0.2.Q4_K_M.gguf%3B+filename%3D%22mistral-7b-instruct-v0.2.Q4_K_M.gguf%22%3B&Expires=1739389583&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczOTM4OTU4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzcyLzYyLzcyNjIxOWU5ODU4MmQxNmMyNGE2NjYyOWE0ZGVjMWIwNzYxYjkxYzkxOGUxNWRlYTI2MjViNDI5M2MxMzRhOTIvM2UwMDM5ZmQwMjczZmNiZWJiNDkyMjg5NDNiMTc4MzFhYWRkNTVjYmNiZjU2ZjBhZjAwNDk5YmUyMDQwY2NmOT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=g~Sx5BI-BUQOdjODSIgtd4WzeBCqfucovmeFHF5hB92nLozp6tURSaWFpdiRoG-v1SFIaZ3l4o0lr~zdUZsiygkN~4fcVjeonrxI7mmNggu4T88Ynmh7twbs0g3rEwnbrbeDEPnWDOfr-oaIHIE0nrAHOso-4joqbkjT0c3pH0Iy3J2nbupUk2n-ACRNsVuKhGXHE2Rjd8t5P8O2F9l8b1SiI6bATc1yVzaC44YICs6SmS-Rg7Yy~ztkU0iBiTKRRynrbQH-rN8pTG7CpJz0i4z62hucJ37Vu~cjFRA~JiKTE4bvaSIOtf2zzSiKq1TQxCapAkbKAas5oj0HKoOq1g__&Key-Pair-Id=K24J24Z295AEI9
+Resolving cdn-lfs-us-1.hf.co (cdn-lfs-us-1.hf.co)... 13.33.146.52, 13.33.146.109, 13.33.146.6, ...
+Connecting to cdn-lfs-us-1.hf.co (cdn-lfs-us-1.hf.co)|13.33.146.52|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4368439584 (4.1G) [binary/octet-stream]
+Saving to: '/Users/dhruvagrawal/models/mistral-7b-instruct-v0.2.Q4_K_M.gguf'
+
+
+
+2025-02-13 01:04:10 (1.07 MB/s) - Read error at byte 3225893323/4368439584 (Operation timed out). Retrying.
+
+--2025-02-13 01:04:11--  (try: 2)  https://cdn-lfs-us-1.hf.co/repos/72/62/726219e98582d16c24a66629a4dec1b0761b91c918e15dea2625b4293c134a92/3e0039fd0273fcbebb49228943b17831aadd55cbcbf56f0af00499be2040ccf9?response-content-disposition=inline%3B+filename*%3DUTF-8''mistral-7b-instruct-v0.2.Q4_K_M.gguf%3B+filename%3D%22mistral-7b-instruct-v0.2.Q4_K_M.gguf%22%3B&Expires=1739389583&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczOTM4OTU4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzcyLzYyLzcyNjIxOWU5ODU4MmQxNmMyNGE2NjYyOWE0ZGVjMWIwNzYxYjkxYzkxOGUxNWRlYTI2MjViNDI5M2MxMzRhOTIvM2UwMDM5ZmQwMjczZmNiZWJiNDkyMjg5NDNiMTc4MzFhYWRkNTVjYmNiZjU2ZjBhZjAwNDk5YmUyMDQwY2NmOT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=g~Sx5BI-BUQOdjODSIgtd4WzeBCqfucovmeFHF5hB92nLozp6tURSaWFpdiRoG-v1SFIaZ3l4o0lr~zdUZsiygkN~4fcVjeonrxI7mmNggu4T88Ynmh7twbs0g3rEwnbrbeDEPnWDOfr-oaIHIE0nrAHOso-4joqbkjT0c3pH0Iy3J2nbupUk2n-ACRNsVuKhGXHE2Rjd8t5P8O2F9l8b1SiI6bATc1yVzaC44YICs6SmS-Rg7Yy~ztkU0iBiTKRRynrbQH-rN8pTG7CpJz0i4z62hucJ37Vu~cjFRA~JiKTE4bvaSIOtf2zzSiKq1TQxCapAkbKAas5oj0HKoOq1g__&Key-Pair-Id=K24J24Z295AEI9
+Connecting to cdn-lfs-us-1.hf.co (cdn-lfs-us-1.hf.co)|13.33.146.52|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 4368439584 (4.1G), 1142546261 (1.1G) remaining [binary/octet-stream]
+Saving to: '/Users/dhruvagrawal/models/mistral-7b-instruct-v0.2.Q4_K_M.gguf'
+
+         mistral-7b-inst  73%[++++++++++++++++++++++++         ]   3.00G  --.-KB/s    eta 48d 11hmistral-7b-instruct-v0.2  73%[++++++++++++++++++++++++         ]   3.00G  --.-KB/s    in 24m 53s 
+
+2025-02-13 01:29:04 (273 B/s) - Read error at byte 3226300302/4368439584 (Operation timed out). Retrying.
+
+--2025-02-13 01:29:06--  (try: 3)  https://cdn-lfs-us-1.hf.co/repos/72/62/726219e98582d16c24a66629a4dec1b0761b91c918e15dea2625b4293c134a92/3e0039fd0273fcbebb49228943b17831aadd55cbcbf56f0af00499be2040ccf9?response-content-disposition=inline%3B+filename*%3DUTF-8''mistral-7b-instruct-v0.2.Q4_K_M.gguf%3B+filename%3D%22mistral-7b-instruct-v0.2.Q4_K_M.gguf%22%3B&Expires=1739389583&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczOTM4OTU4M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzcyLzYyLzcyNjIxOWU5ODU4MmQxNmMyNGE2NjYyOWE0ZGVjMWIwNzYxYjkxYzkxOGUxNWRlYTI2MjViNDI5M2MxMzRhOTIvM2UwMDM5ZmQwMjczZmNiZWJiNDkyMjg5NDNiMTc4MzFhYWRkNTVjYmNiZjU2ZjBhZjAwNDk5YmUyMDQwY2NmOT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=g~Sx5BI-BUQOdjODSIgtd4WzeBCqfucovmeFHF5hB92nLozp6tURSaWFpdiRoG-v1SFIaZ3l4o0lr~zdUZsiygkN~4fcVjeonrxI7mmNggu4T88Ynmh7twbs0g3rEwnbrbeDEPnWDOfr-oaIHIE0nrAHOso-4joqbkjT0c3pH0Iy3J2nbupUk2n-ACRNsVuKhGXHE2Rjd8t5P8O2F9l8b1SiI6bATc1yVzaC44YICs6SmS-Rg7Yy~ztkU0iBiTKRRynrbQH-rN8pTG7CpJz0i4z62hucJ37Vu~cjFRA~JiKTE4bvaSIOtf2zzSiKq1TQxCapAkbKAas5oj0HKoOq1g__&Key-Pair-Id=K24J24Z295AEI9
+Connecting to cdn-lfs-us-1.hf.co (cdn-lfs-us-1.hf.co)|13.33.146.52|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2025-02-13 01:29:06 ERROR 403: Forbidden.
+
