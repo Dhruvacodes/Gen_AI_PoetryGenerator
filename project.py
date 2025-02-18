@@ -11,7 +11,7 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 embed_model = HuggingFaceEmbedding(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # Ensure OpenAI API Key is set (optional, if using OpenAI for text generation)
-os.environ["OPENAI_API_KEY"] = "AIzaSyBquVnh-NM0g7oJAhdXK6YZQ7JspH6wOV8"
+os.environ["OPENAI_API_KEY"] = "xxxxxxxxxxxx"
 if "OPENAI_API_KEY" not in os.environ:
     st.warning("Warning: OpenAI API key is missing. Local embeddings will be used.")
 
